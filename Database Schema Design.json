@@ -1,0 +1,9 @@
+{  
+  "_id": ObjectId,  
+  "dateOfSale": Date,  
+  "productTitle": String,  
+  "productDescription": String,  
+  "price": Number,  
+  "category": String,  
+  "isSold": Boolean  
+}
